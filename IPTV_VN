@@ -404,20 +404,14 @@ https://toiyeuvietnam.dpdns.org/CoBan/afn-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="kbs-world" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kbs-world/KenhCoBan",KBS World
 https://toiyeuvietnam.dpdns.org/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dw/KenhCoBan",DW
-https://toiyeuvietnam.dpdns.org/CoBan/dw/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="nhk" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/nhk/KenhCoBan",NHK
 https://toiyeuvietnam.dpdns.org/CoBan/nhk/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="france-24" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/france-24/KenhCoBan",France 24
 https://toiyeuvietnam.dpdns.org/CoBan/france-24/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv5" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv5/KenhCoBan",TV5
-https://toiyeuvietnam.dpdns.org/CoBan/tv5/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="cnbc-sd" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/cnbc-sd/KenhCoBan",CNBC SD
 https://toiyeuvietnam.dpdns.org/CoBan/cnbc-sd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="history-hd" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/history-hd/KenhCoBan",History HD
 https://toiyeuvietnam.dpdns.org/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kix/KenhCoBan",Kix
-https://toiyeuvietnam.dpdns.org/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/arirang/KenhCoBan",Arirang
 https://toiyeuvietnam.dpdns.org/CoBan/arirang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="davinci-hd" group-title="Kênh quốc tế VN" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/davinci-hd/KenhCoBan",DaVinci HD
