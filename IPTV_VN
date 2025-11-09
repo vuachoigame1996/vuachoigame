@@ -164,26 +164,16 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kcinehd/KenhBoSung", K+ Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kcinehd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="kactionhd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kactionhd/KenhBoSung", K+ Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kactionhd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="ksport1hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ksport1hd/KenhBoSung", K+ Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/ksport1hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="ksport2hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ksport2hd/KenhBoSung", K+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/ksport2hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="kkidshd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kkidshd/KenhBoSung", K+ Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kkidshd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="kcinehd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kcinehd/KenhBoSung", K+ Cine
+http://khaitv.giize.com:1979/mytv/new/get.php?id=228
+#EXTINF:-1 tvg-id="kactionhd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kactionhd/KenhBoSung", K+ Action
+http://khaitv.giize.com:1979/mytv/new/get.php?id=230
+#EXTINF:-1 tvg-id="ksport1hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ksport1hd/KenhBoSung", K+ Sport 1
+http://khaitv.giize.com:1979/mytv/new/get.php?id=229
+#EXTINF:-1 tvg-id="ksport2hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ksport2hd/KenhBoSung", K+ Sport 2
+http://khaitv.giize.com:1979/mytv/new/get.php?id=247
+#EXTINF:-1 tvg-id="kkidshd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kkidshd/KenhBoSung", K+ Kids
+http://khaitv.giize.com:1979/mytv/new/get.php?id=751
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
