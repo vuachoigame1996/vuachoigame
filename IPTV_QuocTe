@@ -25,6 +25,8 @@ https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 https://livetv-fa.tubi.video/wtae/playlist.m3u8
 #EXTINF:-1 ,ABC 5 Cleveland
 https://livetv-fa.tubi.video/wews2/playlist.m3u8
+#EXTINF:-1 ,ABC 5 Boston 
+https://livetv-fa.tubi.video/wcvb/playlist.m3u8
 #EXTINF:-1 ,ABC 6 Idaho
 https://livetv-fa.tubi.video/kivi/playlist.m3u8
 #EXTINF:-1 ,ABC 6 Philadelphia
@@ -41,20 +43,30 @@ https://livetv-fa.tubi.video/kmgh2/playlist.m3u8
 https://livetv-fa.tubi.video/wxyz2/playlist.m3u8
 #EXTINF:-1 ,ABC 7 New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 ,ABC 10 San Diego 
+https://livetv-fa.tubi.video/kgtv2/playlist.m3u8
 #EXTINF:-1 ,ABC 10 Sacramento
 https://livevideo.tegnadigital.com/kxtv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KXTV/elvs/live.m3u8
 #EXTINF:-1 ,ABC 11 Raleigh-Durham
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 #EXTINF:-1 ,ABC 13 Houston
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
+#EXTINF:-1 ,ABC 13 Las Vegas 
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 ,ABC 15 Arizona
 https://livetv-fa.tubi.video/knxv2/playlist.m3u8
 #EXTINF:-1 ,ABC 23 Bakersfield
 https://livetv-fa.tubi.video/kero/playlist.m3u8
 #EXTINF:-1 ,ABC 25 Central Texas
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+#EXTINF:-1 ,ABC 25 Waco
+https://livetv-fa.tubi.video/kxxv/playlist.m3u8
 #EXTINF:-1 ,ABC 27 Tallahassee
 https://livetv-fa.tubi.video/wtxl/playlist.m3u8
+#EXTINF:-1 ,ABC 28 Tampa Bay
+https://livetv-fa.tubi.video/wfts2/playlist.m3u8
+#EXTINF:-1 ,ABC 30 Fresno
+https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
 #EXTINF:-1 ,ABC 36 Lexington
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 #EXTINF:-1 ,Arirang Korea
@@ -191,6 +203,10 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 ,BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 ,BBC CBeebies 
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 ,BBC CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 ,Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 ,BOREAL TELEVISION
@@ -249,6 +265,8 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 ,CYC
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 ,Channel 4 UK
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 ,Channel 24 Ukraine
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 #EXTINF:-1 ,Channel 5 Thailand
@@ -417,12 +435,16 @@ https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7q
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 ,FOX 2 Detroit 
 https://livetv-fa.tubi.video/wjbk/index.m3u8
+#EXTINF:-1 ,FOX 2 San Francisco
+https://livetv-fa.tubi.video/ktvu/index.m3u8
 #EXTINF:-1 ,FOX 4 Cape Coral
 https://livetv-fa.tubi.video/wftx/playlist.m3u8
 #EXTINF:-1 ,FOX 4 Dallas-Fort Worth 
 https://livetv-fa.tubi.video/kdfw/index.m3u8
 #EXTINF:-1 ,FOX 5 Atlanta
 https://livetv-fa.tubi.video/waga/index.m3u8
+#EXTINF:-1 ,FOX 5 Washington DC
+https://livetv-fa.tubi.video/wttg/index.m3u8
 #EXTINF:-1 ,FOX 5 New York 
 https://livetv-fa.tubi.video/wnyw/index.m3u8
 #EXTINF:-1 ,FOX 6 Milwaukee
@@ -461,6 +483,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 #EXTINF:-1 ,GurSikh Sabha Canada
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:-1 ,GBN
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 ,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 ,Global News BC
@@ -495,6 +519,12 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 #EXTINF:-1 ,Haiti News
 https://haititivi.com/website/haitinews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,HadiTV 2
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 ,HadiTV 7
+https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
+#EXTINF:-1 ,HadiTV 8
+https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
 #EXTINF:-1 ,Harvest TV
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 ,India Today 
@@ -533,8 +563,12 @@ https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 #EXTINF:-1 ,KSMO TV
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 ,6 KSBY
+https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
 #EXTINF:-1 ,KATC 3
 https://livetv-fa.tubi.video/katc/playlist.m3u8
+#EXTINF:-1 ,KCRA 3
+https://livetv-fa.tubi.video/kcra/playlist.m3u8
 #EXTINF:-1 ,KCTV 5
 https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
 #EXTINF:-1 ,KRIS 6
@@ -847,6 +881,8 @@ https://nl.livekadeh.com/hls2/velayattv.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 ,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 ,WCBI
+https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
 #EXTINF:-1 ,WCNC
 https://livevideo01.wcnc.com/hls/live/2015505/elvs/live.m3u8
 #EXTINF:-1 ,WESH 2
