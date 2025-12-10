@@ -359,10 +359,10 @@ https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
 
 
 #EXTINF:-1 group-title="Quoc Te",Quoc Te
-#EXTINF:-1 ,SaigonTV
-https://live.relentlessinnovations.net:1936/saigontv/saigontv/playlist.m3u8
-#EXTINF:-1 ,IBCTV
-https://live.relentlessinnovations.net:1936/ibc/ibc/playlist.m3u8
+#EXTINF:-1 ,SBTN
+https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
+#EXTINF:-1 ,VBS
+https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 #EXTINF:-1 ,3ABN
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 ,3ABN Canada
