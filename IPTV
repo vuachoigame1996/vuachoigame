@@ -38,7 +38,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 ,ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 ,ON Phim Việt
-http://khaitv.giize.com:1979/mytv/new/get.php?id=198
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 ,On Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 ,ON E-Channel
@@ -71,7 +71,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 ,On Golf
-
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 ,On Home Shopping
 https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
 
@@ -81,7 +81,7 @@ https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 ,HTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.248.224.236:8889/Vieon.php?id=htv2
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 ,HTV3
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 ,HTV Key
@@ -120,79 +120,61 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="SCTV",SCTV
 #EXTINF:-1 ,SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 ,SCTV2
-https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 ,SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV3/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
 #EXTINF:-1 ,SCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 ,SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 ,SCTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV7/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 #EXTINF:-1 ,SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV8/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 #EXTINF:-1 ,SCTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+http://akasaijr.myftp.org:21585/sctv9/index.m3u8
 #EXTINF:-1 ,SCTV10
 
 #EXTINF:-1 ,SCTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV11/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
 #EXTINF:-1 ,SCTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV12/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 #EXTINF:-1 ,SCTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV13/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
 #EXTINF:-1 ,SCTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 ,SCTV16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTINF:-1 ,SCTV18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
+http://akasaijr.myftp.org:21585/vtc1/index.m3u8
 #EXTINF:-1 ,SCTV19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
+https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 #EXTINF:-1 ,SCTV20
 https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
 #EXTINF:-1 ,SCTV21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
+https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 #EXTINF:-1 ,SCTV22 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 ,SCTV Phim Tổng Hợp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
+http://akasaijr.myftp.org:21585/sctvpth/index.m3u8
 #EXTINF:-1 ,SCTV4K 
-
-
-
-#EXTINF:-1 group-title="K+",K+
-#EXTINF:-1 ,K+CINE HD
-
-#EXTINF:-1 ,K+ACTION HD
-
-#EXTINF:-1 ,K+SPORT1 HD
-
-#EXTINF:-1 ,K+SPORT2 HD
-
-#EXTINF:-1 ,K+ Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-
 
 
 #EXTINF:-1 group-title="Thiết yếu",Thiết yếu
@@ -230,8 +212,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 ,Đồng Nai 2
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 ,Đồng Nai 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.248.224.236:8889/Vieon.php?id=dongnai3
+https://1.org.vn/dnrtv3
 #EXTINF:-1 ,Đồng Tháp 1
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 ,Đồng Tháp 2
@@ -249,8 +230,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=55
 #EXTINF:-1 ,Hải Phòng 
 https://freem3u.xyz/api/live/play.m3u8?vid=60
 #EXTINF:-1 ,Hải Phòng 3
-https://freem3u.xyz/api/live/play.m3u8?vid=59
-#EXTINF:-1 ,Hải Phòng +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,Hà Nội 1
@@ -302,10 +281,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=83
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:-1 ,Thanh Hóa
 https://freem3u.xyz/api/live/play.m3u8?vid=89
-#EXTINF:-1 ,Tây Ninh 1
+#EXTINF:-1 ,Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=72
-#EXTINF:-1 ,Tây Ninh 2
-https://freem3u.xyz/api/live/play.m3u8?vid=86
 #EXTINF:-1 ,Tuyên Quang
 https://freem3u.xyz/api/live/play.m3u8?vid=92
 #EXTINF:-1 ,Thái Nguyên
@@ -331,6 +308,10 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 group-title="Quốc Tế VN",Quốc Tế VN
+#EXTINF:-1 ,Cartoon Network
+http://akasaijr.myftp.org:21585/cartoon/index.m3u8
+#EXTINF:-1 ,Cartoonito
+http://khaitv.giize.com:8090/225.1.1.138:30120
 #EXTINF:-1 ,Asian Food Network
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -344,6 +325,11 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 ,Animal Planet
 http://khaitv.giize.com:8090/225.1.4.209:30120
+#EXTINF:-1 ,Discovery
+http://akasaijr.myftp.org:21585/discovery/index.m3u8
+#EXTINF:-1 ,Discovery Asia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
 #EXTINF:0 ,Cinema World 
 http://khaitv.giize.com:8090/225.1.1.142:30120
 #EXTINF:0 ,Cinemax
@@ -352,15 +338,35 @@ http://khaitv.giize.com:8090/225.1.2.86:30120
 http://khaitv.giize.com:8090/225.1.4.39:30120
 #EXTINF:-1 ,History
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:0 ,HBO
+#EXTINF:-1 ,BBC Earth
+https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
+#EXTINF:-1 ,HBO
 http://khaitv.giize.com:8090/225.1.4.90:30120
 #EXTINF:-1 ,HGTV
 https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
+#EXTINF:-1 ,Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
+#EXTINF:-1 ,Hollywood Classics
+https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
+#EXTINF:-1 ,In The Box
+https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
+#EXTINF:-1 ,Box Hits
+https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
+#EXTINF:-1 ,Man
+https://toiyeuvietnam.dpdns.org/Start/VMT456_MAN
+#EXTINF:-1 ,Dr.Fit
+https://toiyeuvietnam.dpdns.org/Start/VMT456_DrFit
+#EXTINF:-1 ,Happy Kids
+https://toiyeuvietnam.dpdns.org/Start/VMT567_HappyKid
+#EXTINF:-1 ,Planet Earth
+https://toiyeuvietnam.dpdns.org/Start/VMT345_PlanetEarth
+#EXTINF:-1 ,AXN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 
 
 #EXTINF:-1 group-title="Quoc Te",Quoc Te
-#EXTINF:-1 ,SBTN
-https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 #EXTINF:-1 ,VBS
 https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 #EXTINF:-1 ,3ABN
@@ -533,6 +539,8 @@ https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 ,Bandung TV 
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 ,Belgorod 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1 ,Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 ,Bungo TV 
@@ -691,6 +699,8 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8
 https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 ,City of Newport Beach
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
+#EXTINF:-1 ,City of Yaroslavl
+http://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 ,Cupertino City Channel
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 #EXTINF:-1 ,CNews
@@ -779,6 +789,10 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,EBS KIDS 
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBSi
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,Evrokom
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 ,EWTN Germany
@@ -877,6 +891,8 @@ https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df528024
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 #EXTINF:-1 ,HNKA TV
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 ,Himlen TV7
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 #EXTINF:-1 ,High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 ,HSH
@@ -1207,6 +1223,8 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 ,TLSD
 https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8
+#EXTINF:-1 ,Taivas TV7
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
 #EXTINF:-1 ,TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 ,TVK 2
